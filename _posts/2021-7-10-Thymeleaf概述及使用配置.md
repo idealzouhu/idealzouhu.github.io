@@ -2,12 +2,11 @@
 layout:     post
 title:      thymeleaf
 subtitle:   这里记录每天的心情与收获，有时间就写写。
-date:       1994-10-03
+date:       2021-7-10
 author:     zouhu
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
-    - 阿里云
     - thymeleaf
 ---
 
