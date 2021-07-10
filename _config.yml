@@ -19,12 +19,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
+#weibo_username:     wzb1994
+#zhihu_username:     zongguanxian
 github_username:    idealzouhu
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+#twitter_username:   wzbcode
 
 
 # Build settings
@@ -66,8 +66,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ae47d898c3d118b467be                            #生成的clientID
-  clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
+  clientID: f63c98788737bc8d8496                         #生成的clientID
+  clientSecret: ac8e82487e1b0c77c7ae8ccd8e2617648f331c2f    #生成的clientSecret
   repo: idealzouhu.github.io    #仓库名称
   owner: idealzouhu    #github用户名
   admin: idealzouhu
