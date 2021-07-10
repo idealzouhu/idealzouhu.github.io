@@ -18,7 +18,7 @@ tags:
 
 &emsp;&emsp;SpringBoot支持如下页面模板语言
 
-```
+```java
 Thymeleaf
 FreeMarker
 Velocity
@@ -71,7 +71,7 @@ JSP
 </head>
 <body>
     <div th:text="${article.title}">标题</div>
-    <div th:text="${article.body}">内容</div>
+    <div th:text="${article.body}"> 内容</div>
 </body>
 </html>
 ```
