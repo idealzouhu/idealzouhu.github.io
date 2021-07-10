@@ -1,3 +1,13 @@
+layout:     post
+title:      thymeleaf
+subtitle:   这里记录每天的心情与收获，有时间就写写。
+date:       2021-7-10
+author:     zouhu
+header-img: img/post-bg-article.jpg
+catalog: true
+tags:
+    - thymeleaf
+
 # Thymeleaf概述
 
 ​       Thymeleaf是一个供后端人员使用的，为快速开发页面而生的Java模板引擎，能够动态地替换掉静态内容，使页面动态显示，。Thymeleaf的主要目标是为您的开发工作流程带来优雅的自然模板 - 可以正确显示在浏览器中的HTML，也可以作为静态原型工作，从而在开发团队中进行更强大的协作。 

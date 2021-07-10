@@ -84,7 +84,3 @@ JSP
 #为便于测试，在开发时需要关闭缓存
 spring.thymeleaf.cache=false
 ```
-    r:=succ(!r); 
-    r:=succ(!r); 
-    r:=succ(!r); 
-    !r
